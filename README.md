@@ -15,7 +15,7 @@
   As the project becomes more complex, i'll keep it updated.
 </p>
 <p>
-  I'll make the code review in another repository
+  I'll make the code review in another repository.
 </p>
 
 
